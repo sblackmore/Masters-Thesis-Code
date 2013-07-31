@@ -16,6 +16,6 @@ unknown.
 
 Notes:
 
-The code will be unrunnable unless in possession of recorde guitar samples and impulse responses.  Code will need to be 
+The code will be unrunnable unless in possession of recorded guitar samples and impulse responses.  Code will need to be 
 modified to correct array indices if new impulse response data is used. 
 
